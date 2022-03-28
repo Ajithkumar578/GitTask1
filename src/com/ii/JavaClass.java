@@ -14,6 +14,9 @@ public class JavaClass {
 	public void c() {
 		
 		System.out.println("hi");
+	}public void d() {
+		
+		System.out.println("hi");
 	}
 	
 	public static void main(String[] args) {
