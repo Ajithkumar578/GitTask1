@@ -1,3 +1,4 @@
+
 package com.ii;
 
 public class JavaClass {
@@ -7,6 +8,13 @@ public class JavaClass {
 		System.out.println("hi");
 	}
 	public void b() {
+		
+		System.out.println("hi");
+	}
+	public void c() {
+		
+		System.out.println("hi");
+	}public void d() {
 		
 		System.out.println("hi");
 	}
