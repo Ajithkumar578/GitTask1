@@ -17,6 +17,14 @@ public class JavaClass {
 	}public void d() {
 		
 		System.out.println("hi");
+
+	}public void e() {
+		
+		System.out.println("hi");
+	}public void f() {
+		
+		System.out.println("hi");
+	}
 	}
 
 	public void e() {
