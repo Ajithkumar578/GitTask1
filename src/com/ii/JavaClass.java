@@ -6,6 +6,10 @@ public class JavaClass {
 		
 		System.out.println("hi");
 	}
+	public void b() {
+		
+		System.out.println("hi");
+	}
 	public void c() {
 		
 		System.out.println("hi");
@@ -17,3 +21,4 @@ public class JavaClass {
 	}
 
 }
+
